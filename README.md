@@ -75,8 +75,6 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BholaSoham&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com?user=BholaSoham&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -87,7 +85,7 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 
 ### 🚧 Currently rebuilding and upgrading projects 🚧
 
-<div align="center">
+<div>
 
 *"Trying to make projects that feel less like assignments and more like real systems."*
 
