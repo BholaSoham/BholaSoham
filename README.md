@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Backend+%26+Full+Stack+Developer;Building+Real+Projects+%26+Cool+Systems;Python+%7C+JavaScript+%7C+C+Language;Turning+Random+Ideas+Into+Actual+Projects" />
+# Hi there 👋 
+
+### Full Stack Development • Backend Systems • Coding
 
 </div>
 
@@ -51,42 +53,6 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 ## ⚙️ Backend & Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql)
-
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
-![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge\&logo=notion)
-
----
-
-<div align="center">
-
-# 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BholaSoham&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BholaSoham&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=BholaSoham&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚧 Currently rebuilding and upgrading projects 🚧
-
-*"Trying to make projects that feel less like assignments and more like real systems."*
-
-</div>
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
-
-## ⚙️ Backend & Database
-
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql)
-![spaCy](https://img.shields.io/badge/spaCy-111111?style=for-the-badge\&logo=spacy)
 
 ## 🛠️ Tools
 
