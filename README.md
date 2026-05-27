@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi there 👋 
+# 👋 Hi there, Soham this side
 
-### Full Stack Development • Backend Systems • Coding
+### Full Stack Development 💻  • Backend Systems ⚙️  • Coding 🤖 
 
 </div>
 
 ---
 
-<div align="center">
+<div>
 
 # 💫 About Me
 
@@ -27,9 +27,10 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 
 ---
 
-<div align="center">
 
 ## 🌐 Connect With Me
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bholasoham4408@gmail.com)
 
@@ -37,7 +38,10 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 
 ---
 
+  
 # 💻 Tech Stack
+
+<div align="center">
 
 ## 🚀 Languages
 
@@ -60,11 +64,14 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
 ![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge\&logo=notion)
 
+</div>
 ---
 
-<div align="center">
+
 
 # 📊 GitHub Stats
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BholaSoham&show_icons=true&theme=tokyonight&hide_border=true" />
 
@@ -76,9 +83,11 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 
 ---
 
-<div align="center">
+
 
 ### 🚧 Currently rebuilding and upgrading projects 🚧
+
+<div align="center">
 
 *"Trying to make projects that feel less like assignments and more like real systems."*
 
