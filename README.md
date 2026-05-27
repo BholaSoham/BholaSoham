@@ -65,6 +65,8 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 ![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge\&logo=notion)
 
 </div>
+
+
 ---
 
 
@@ -72,8 +74,6 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BholaSoham&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BholaSoham&layout=compact&theme=tokyonight&hide_border=true"/>
 
