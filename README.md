@@ -32,7 +32,9 @@ Backend Engineering • Full Stack Development • JavaScript • REST APIs • 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bholasoham4408@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sohamb2026@gmail.com)
+
+[![X](https://img.shields.io/badge/X-@BuildwithSoham-black?style=for-the-badge&logo=x)](https://x.com/BuildwithSoham)
 
 </div>
 
