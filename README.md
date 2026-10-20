@@ -15,12 +15,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer interested in building useful software across the stack — from clean backend systems and databases to interactive web apps and AI-powered tools.
+I'm an **aspiring Full-Stack Developer** who enjoys programming, building things from scratch, and turning ideas into working software. From crafting interactive web experiences to developing backend systems and exploring AI-powered applications, I love the entire process of bringing ideas to life.
 
-- 🛠️ I built **Heath**, an NLP-powered chatbot for a Python + MySQL Airport Management System.
-- 🧠 I enjoy backend architecture, database design, NLP, and practical problem-solving.
-- 🌌 I'm curious about AI applications, quantum computing, and research-driven engineering.
-- ⚽ Outside code, I'm a footballer with **GKW Rangers FC**.
+- 💻 Passionate about programming, software development, and learning new technologies.
+- 🚀 Building projects across the stack with **Python, JavaScript, React, Next.js, Node.js, FastAPI, and SQL**.
+- 🧠 Exploring AI applications, problem-solving, and the engineering behind great software.
+- 🛠️ Currently building **Heath**, an NLP-powered chatbot for an Airport Management System.
+- ⚽ Outside tech, I'm a footballer playing for **GKW Rangers FC**.
+
+---
 
 ## ⚙️ Tech Stack
 
@@ -51,6 +54,8 @@ I'm a developer interested in building useful software across the stack — from
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
+---
+
 ## 🚀 Featured Project
 
 <a href="https://github.com/BholaSoham/airport_management_system_chatbot">
@@ -67,6 +72,8 @@ A Python + MySQL airport operations system with an NLP-powered chatbot interface
 
 **Stack:** Python · MySQL · spaCy · Git
 
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -77,6 +84,7 @@ A Python + MySQL airport operations system with an NLP-powered chatbot interface
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BholaSoham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used programming languages across public repositories" height="180" />
 </p>
 
+---
 
 ## 🧊 Contributions in 3D
 
