@@ -81,7 +81,7 @@ A Python + MySQL airport operations system with an NLP-powered chatbot interface
 ## 🧊 Contributions in 3D
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contribution calendar" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Animated 3D GitHub contribution calendar" width="100%" />
 </p>
 
 ---
