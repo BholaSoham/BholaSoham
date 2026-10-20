@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">120 all-time GitHub contributions</title>
+  <desc id="desc">All-time GitHub contributions for BholaSoham, refreshed daily by GitHub Actions.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#3fb950" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#3fb950" stop-opacity=".25" />
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="178" rx="16" fill="#0d1117" stroke="#30363d" />
+  <rect x="1.5" y="1.5" width="897" height="4" rx="2" fill="url(#edge)" />
+  <circle cx="92" cy="91" r="48" fill="url(#glow)">
+    <animate attributeName="r" values="42;50;42" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values=".65;1;.65" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <g transform="translate(64 63)" fill="none" stroke="#3fb950" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 2 34 14 47 16 37.5 25.5 40 39 28 32.5 16 39 18.5 25.5 9 16 22 14Z" />
+    <path d="M28 2V10M47 16 39 19M40 39 34 31M16 39 22 31M9 16 17 19" opacity=".55" />
+  </g>
+  <text x="160" y="47" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.5">GITHUB CONTRIBUTIONS</text>
+  <text x="156" y="117" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="56" font-weight="750">120</text>
+  <text x="162" y="146" fill="#3fb950" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing=".5">ALL TIME · AND COUNTING</text>
+  <line x1="590" y1="38" x2="590" y2="142" stroke="#30363d" />
+  <text x="622" y="69" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="650">Not just the last 12 months</text>
+  <text x="622" y="96" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="14">Counts the contribution calendar</text>
+  <text x="622" y="117" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="14">across your account history.</text>
+  <text x="622" y="145" fill="#6e7681" font-family="'Segoe UI', Arial, sans-serif" font-size="12">↻ Refreshed daily by GitHub Actions</text>
+</svg>
