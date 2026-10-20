@@ -76,8 +76,6 @@ A Python + MySQL airport operations system with an NLP-powered chatbot interface
   <img src="./assets/all-time-contributions.svg" alt="All-time GitHub contribution count" width="100%" />
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BholaSoham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used programming languages across public repositories" height="180" />
-
 
 ## 🧊 Contributions in 3D
 
