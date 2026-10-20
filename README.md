@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+<p align="center"
 I'm an **aspiring Full-Stack Developer** who enjoys programming, building things from scratch, and turning ideas into working software. From crafting interactive web experiences to developing backend systems and exploring AI-powered applications, I love the entire process of bringing ideas to life.
 
 - 💻 Passionate about programming, software development, and learning new technologies.
@@ -22,10 +22,11 @@ I'm an **aspiring Full-Stack Developer** who enjoys programming, building things
 - 🧠 Exploring AI applications, problem-solving, and the engineering behind great software.
 - 🛠️ Currently building **Heath**, an NLP-powered chatbot for an Airport Management System.
 - ⚽ Outside tech, I'm a footballer playing for **GKW Rangers FC**.
+</p>
 
 ## ⚙️ Tech Stack
 
-<p>
+<p align="center">
   <strong>Languages</strong><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -33,7 +34,7 @@ I'm an **aspiring Full-Stack Developer** who enjoys programming, building things
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<p>
+<p align="center">
   <strong>Frontend</strong><br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -41,7 +42,7 @@ I'm an **aspiring Full-Stack Developer** who enjoys programming, building things
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
-<p>
+<p align="center">
   <strong>Backend, Data & Tools</strong><br />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -53,10 +54,11 @@ I'm an **aspiring Full-Stack Developer** who enjoys programming, building things
 </p>
 
 ## 🚀 Featured Project
-
+<p align="center">
 <a href="https://github.com/BholaSoham/airport_management_system_chatbot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BholaSoham&repo=airport_management_system_chatbot&theme=tokyonight&hide_border=true" alt="Airport Management System with Chatbot repository card" />
 </a>
+</p>
 
 ### ✈️ Airport Management System — *Heath*
 
