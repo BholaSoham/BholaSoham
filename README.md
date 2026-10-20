@@ -23,8 +23,6 @@ I'm an **aspiring Full-Stack Developer** who enjoys programming, building things
 - 🛠️ Currently building **Heath**, an NLP-powered chatbot for an Airport Management System.
 - ⚽ Outside tech, I'm a footballer playing for **GKW Rangers FC**.
 
----
-
 ## ⚙️ Tech Stack
 
 <p>
@@ -54,8 +52,6 @@ I'm an **aspiring Full-Stack Developer** who enjoys programming, building things
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
-
 ## 🚀 Featured Project
 
 <a href="https://github.com/BholaSoham/airport_management_system_chatbot">
@@ -72,8 +68,6 @@ A Python + MySQL airport operations system with an NLP-powered chatbot interface
 
 **Stack:** Python · MySQL · spaCy · Git
 
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -83,8 +77,6 @@ A Python + MySQL airport operations system with an NLP-powered chatbot interface
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BholaSoham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used programming languages across public repositories" height="180" />
 </p>
-
----
 
 ## 🧊 Contributions in 3D
 
